@@ -1,15 +1,3 @@
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   free.c                                             :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: ecolin <ecolin@student.42.fr>              +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/03/05 15:52:06 by ecolin            #+#    #+#             */
-/*   Updated: 2023/03/08 16:01:46 by ecolin           ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-
 #include "cub3d.h"
 
 void	isfunc(int f, int (*l)(), void *param, int err)
@@ -18,7 +6,7 @@ void	isfunc(int f, int (*l)(), void *param, int err)
 	{
 		if (l)
 			(*l)(param);
-		printf("Ohoh! Error occurred\n");
+		printf("Error occurred in map\n");
 		exit(EXIT_FAILURE);
 	}
 }

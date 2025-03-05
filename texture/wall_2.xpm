@@ -1,5 +1,5 @@
 /* XPM */
-static char *cobblestone[] = {
+static char *wall_2[] = {
 /* columns rows colors chars-per-pixel */
 "64 64 6 1 ",
 "  c #6E6D6D",

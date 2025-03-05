@@ -1,5 +1,5 @@
 /* XPM */
-static char * wall_test_xpm[] = {
+static char * wall_1_xpm[] = {
 "64 64 14 1",
 " 	c #A4A4A4",
 ".	c #331F1F",

@@ -1,5 +1,5 @@
 /* XPM */
-static char *cobbled_deepslate[] = {
+static char *wall_3[] = {
 /* columns rows colors chars-per-pixel */
 "64 64 6 1 ",
 "  c #5A5A5A",
