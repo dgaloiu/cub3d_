@@ -71,3 +71,11 @@ SO texture/wall_4.xpm
 - The map must be `closed` or it won't work.
 
 Save your map file in the `map` directory and update the game configuration to use your new map.
+
+## Moving
+In order to move in the game you can use `w` `s` `a` `d`
+
+To look right or left you can use the right and left keyboard arrows
+
+
+Have fun!!! 🎮
